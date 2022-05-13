@@ -1,2 +1,6 @@
-# sf_DS_PRO
-skillfactroy data science pro
+# My data science projects
+From the skillfactroy data science course
+
+## Проекты
+
+*[Проект 0. Игра: угадай число]
