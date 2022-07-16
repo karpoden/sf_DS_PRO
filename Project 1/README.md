@@ -1,18 +1,18 @@
 # Проект 1. Анализ вакансий из HeadHunter
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/karpoden/sf_DS_PRO/blob/main/Project 1/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/karpoden/sf_DS_PRO/blob/main/Project 1/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/karpoden/sf_DS_PRO/blob/main/Project 1/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/karpoden/sf_DS_PRO/blob/main/Project 1/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/karpoden/sf_DS_PRO/blob/main/Project 1/README.md#Результат)    
-[6. Выводы](https://github.com/karpoden/sf_DS_PRO/blob/main/Project 1/README.md#Выводы) 
+[1. Описание проекта](https://github.com/karpoden/sf_DS_PRO/tree/main/Project%201/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/karpoden/sf_DS_PRO/tree/main/Project%201/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/karpoden/sf_DS_PRO/tree/main/Project%201/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/karpoden/sf_DS_PRO/tree/main/Project%201/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/karpoden/sf_DS_PRO/tree/main/Project%201/README.md#Результат)    
+[6. Выводы](https://github.com/karpoden/sf_DS_PRO/tree/main/Project%201/README.md#Выводы) 
 
 ### Описание проекта    
 В вашем распоряжении будет база резюме, выгруженная с сайта поиска вакансий hh.ru.
 Ссылка на файл: https://drive.google.com/file/d/1udjWBCJ_pRC623KJfV9iCMntRVS3Vz6D/view?usp=sharing
 
-:arrow_up:[к оглавлению](https://github.com/karpoden/sf_DS_PRO/blob/main/Project 1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/karpoden/sf_DS_PRO/tree/main/Project%201/README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -31,7 +31,7 @@
 ### Краткая информация о данных
 В вашем распоряжении будет база резюме, выгруженная с сайта поиска вакансий hh.ru.
   
-:arrow_up:[к оглавлению](https://github.com/karpoden/sf_DS_PRO/blob/main/Project 1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/karpoden/sf_DS_PRO/tree/main/Project%201/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
@@ -40,19 +40,19 @@
 разведывательный анализ
 очистка данных
 
-:arrow_up:[к оглавлению](https://github.com/karpoden/sf_DS_PRO/blob/main/Project 1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/karpoden/sf_DS_PRO/tree/main/Project%201/README.md#Оглавление)
 
 
 ### Результаты:  
 DataFrame готовый к построению модели
 
-:arrow_up:[к оглавлению](https://github.com/karpoden/sf_DS_PRO/blob/main/Project 1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/karpoden/sf_DS_PRO/tree/main/Project%201/README.md#Оглавление)
 
 
 ### Выводы:  
 Задание было решено. Базовый анализ структуры данных проведен, преобразовал данные, нашел зависимости, построил графики, дал выводы по графикам, очистил данные от выбросов и дубликатов.
 
-:arrow_up:[к оглавлению](https://github.com/karpoden/sf_DS_PRO/blob/main/Project 1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/karpoden/sf_DS_PRO/tree/main/Project%201/README.md#Оглавление)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
